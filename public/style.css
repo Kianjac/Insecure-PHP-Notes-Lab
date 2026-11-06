@@ -1,0 +1,5 @@
+body{font:16px sans-serif;max-width:750px;margin:2rem auto}
+label{display:block;margin:.5rem 0}
+article{border:1px solid #aaa;padding:1rem;margin:1rem 0}
+article p{white-space:pre-wrap}
+form.inline{display:inline}

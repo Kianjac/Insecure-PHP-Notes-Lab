@@ -1,0 +1,4 @@
+# Never commit real credentials or environment files
+.env
+*.log
+vendor/
